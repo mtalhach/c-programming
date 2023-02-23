@@ -21,7 +21,7 @@ int main()
 	
 	printf("Repeating elements:  ");
 	for(i=0;i<k;i++){
-		for(j=0;j<k;j++){
+		for(j=0;j<i;j++){
 			if(arr[i]==arr[j]){
 				break;
 			}

@@ -7,7 +7,8 @@ int main()
 	{
 	printf("\n\nPlz Enter The operator (+,*,-,/): ");
 	fflush(stdin);
-	scanf("%[^\n]",&oper);
+	scanf("%c",&oper);
+//	scanf("%[^\n]",&oper);
 	printf("Plz Enter The numbers:\n");
 	scanf("%d %d",&n1,&n2);
 	
