@@ -15,3 +15,9 @@ const data_type var_name = value;<h4>
 <h1>Data Types in C</h1>
 <img src="https://raw.githubusercontent.com/mtalhach/c-programming/main/1-Basic%20Programs/data%20type.png">
 <a href="https://www.geeksforgeeks.org/data-types-in-c/" target="_blank">https://www.geeksforgeeks.org/data-types-in-c/</a>
+
+<h1>Type Conversion in C</h1>
+<h4>Type conversion in C is the process of converting one data type to another. The type conversion is only performed to those data types where conversion is possible. Type conversion is performed by a compiler. In type conversion, the destination data type can’t be smaller than the source data type. Type conversion is done at compile time and it is also called widening conversion because the destination data type can’t be smaller than the source data type. There are two types of Conversion:<br>
+1. Implicit Type Conversion <br>
+2. Explicit Type Conversion</h4>
+<a href="https://www.geeksforgeeks.org/type-conversion-c/" target="_blank">https://www.geeksforgeeks.org/type-conversion-c/</a>
