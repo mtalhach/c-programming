@@ -4,3 +4,6 @@ Syntax to Define Constant <br>
 const data_type var_name = value;<h4>
 <a href="https://www.geeksforgeeks.org/constants-in-c/" target="blank">https://www.geeksforgeeks.org/constants-in-c</a>
 
+<h1>Keywords in C</h1>
+<img src="https://raw.githubusercontent.com/mtalhach/c-programming/main/1-Basic%20Programs/Keywords.png">
+<a href="https://www.geeksforgeeks.org/keywords-in-c/" target="blank">https://www.geeksforgeeks.org/keywords-in-c/</a>
