@@ -21,3 +21,11 @@ const data_type var_name = value;<h4>
 1. Implicit Type Conversion <br>
 2. Explicit Type Conversion</h4>
 <a href="https://www.geeksforgeeks.org/type-conversion-c/" target="_blank">https://www.geeksforgeeks.org/type-conversion-c/</a>
+
+<h1>What is the difference between printf, sprintf and fprintf?</h1>
+<h4>printf: printf function is used to print character stream of data on stdout console.<br> 
+sprintf: String print function instead of printing on console store it on char buffer which is specified in sprintf.<br>
+fprintf: fprintf is used to print the string content in file but not on the stdout console.</h4>
+<a href="https://www.geeksforgeeks.org/difference-printf-sprintf-fprintf/" target="_blank">https://www.geeksforgeeks.org/difference-printf-sprintf-fprintf/</a>
+
+
